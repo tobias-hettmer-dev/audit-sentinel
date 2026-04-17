@@ -23,7 +23,7 @@ Audit Sentinel scans Python codebases for potential GDPR (DSGVO) violations usin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aepydraco/audit-sentinel.git
+git clone https://github.com/tobias-hettmer-dev/audit-sentinel.git
 cd audit-sentinel
 ```
 
