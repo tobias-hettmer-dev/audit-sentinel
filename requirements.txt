@@ -1,0 +1,9 @@
+# Audit Sentinel – Abhängigkeiten
+# Installation: pip install -r requirements.txt
+
+# Pflicht (für Grundfunktion)
+pathlib2>=2.3.7        # Pfad-Handling (meist schon in Python 3 enthalten)
+
+# Optional – nur für KI-Analyse via Google Gemini
+# Aktivierung: python main.py scan ./pfad --ai --api-key DEIN_KEY
+google-generativeai>=0.5.0
